@@ -1,0 +1,25 @@
+{
+  "name": "testing-hapi-auth0",
+  "version": "1.0.0",
+  "description": "Use Auth0 with Hapi framework to control user access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/testing-hapi-with-auth0.git"
+  },
+  "keywords": [
+    "Hapi",
+    "Auth0",
+    "node",
+    "http"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/testing-hapi-with-auth0/issues"
+  },
+  "homepage": "https://github.com/newswim/testing-hapi-with-auth0#readme"
+}
